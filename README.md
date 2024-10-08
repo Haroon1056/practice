@@ -1,2 +1,2 @@
 # practice
-Git &amp; Github practice
+Git and Github practice
